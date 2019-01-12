@@ -17,7 +17,7 @@ from urllib.parse import urlparse, urljoin
 from urllib import request
 from bs4 import BeautifulSoup
 
-from config.setting import *
+from crawl_image.config.setting import *
 
 
 # 创建时间戳文件夹

@@ -1,0 +1,4 @@
+include README.md LICENSE
+recursive-include crawl_image *
+recursive-include docs *
+recursive-exclude tests *

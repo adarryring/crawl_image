@@ -7,7 +7,7 @@ import logging
 
 LOG_LEVEL = logging.INFO
 DO_MULTI = True
-URL = 'https://tieba.baidu.com/p/3205263090'
+URL = 'http://huaban.com/'
 IMG_SAVE_PATH = 'D:/crawl/image'
 
 """配置 end"""
