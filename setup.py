@@ -16,12 +16,12 @@ with io.open('README.md', encoding='utf-8') as f:
 
 setuptools.setup(
     name="crawl_image",
-    version="0.0.4",
+    version="0.0.5",
 
     author="xiaohong2019",
     author_email="2229009854@qq.com",
 
-    description="crawl web image source",
+    description="fast crawl web image source",
     long_description=long_description,
     long_description_content_type="text/markdown",
 
