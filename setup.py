@@ -27,10 +27,10 @@ setuptools.setup(
 
     url="https://github.com/xiaohong2019/crawl_image",
     packages=setuptools.find_packages(),
-	install_requires=[
-		'chardet',
+    install_requires=[
+        'chardet',
         'beautifulsoup4',
-	],
+    ],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
