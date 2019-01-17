@@ -16,7 +16,7 @@ with io.open('README.md', encoding='utf-8') as f:
 
 setuptools.setup(
     name="crawl_image",
-    version="0.0.5",
+    version="0.0.6",
 
     author="xiaohong2019",
     author_email="2229009854@qq.com",
