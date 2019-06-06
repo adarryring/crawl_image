@@ -24,4 +24,4 @@ crawl_start(img_crawl_model)
 - 未来已来 203737026
 
 ## Copyright and License
-code for you
+code for everything
