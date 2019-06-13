@@ -5,7 +5,7 @@
 @project: crawl img tag source
 @author: xiaohong
 @time: 2019-01-01
-@feature: crawl image for every site/multi thread to download/
+@feature: crawl image for web site or url/multi thread to download/
 """
 
 import setuptools
@@ -16,12 +16,12 @@ with io.open('README.md', encoding='utf-8') as f:
 
 setuptools.setup(
     name="crawl_image",
-    version="0.0.6",
+    version="0.1.0",
 
     author="xiaohong2019",
     author_email="2229009854@qq.com",
 
-    description="fast crawl web image source",
+    description="fast crawl web image source or image url list file",
     long_description=long_description,
     long_description_content_type="text/markdown",
 

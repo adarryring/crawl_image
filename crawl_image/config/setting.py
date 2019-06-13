@@ -7,6 +7,7 @@ import logging
 
 LOG_LEVEL = logging.INFO
 DO_MULTI = True
+TIMESTAMP_WITH_FOLDER = True
 URL = 'http://huaban.com/'
 IMG_SAVE_PATH = 'D:/crawl/image'
 DEFAULT_IMG_SUFFIX = 'jpg'
